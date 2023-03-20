@@ -1,3 +1,7 @@
+# ⚠️ THIS REPO IS NO LONGER MAINTAINED ⚠️ <br> We have moved to the [Bento-Robotics](https://github.com/Bento-Robotics) repo at <br> https://github.com/Bento-Robotics/iotbot-TUI
+
+<br>
+
 # iotbot-TUI
 
 A control TUI with joystick support for iotbot robots  
